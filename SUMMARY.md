@@ -13,3 +13,4 @@
 * [APP Demos](app-demos.md)
 * [其他开发文档](qi-ta-kai-fa-wen-dang.md)
   * [Awesome quorum](qi-ta-kai-fa-wen-dang/awesome-quorum.md)
+* [开发者社区](kai-fa-zhe-she-qu.md)
